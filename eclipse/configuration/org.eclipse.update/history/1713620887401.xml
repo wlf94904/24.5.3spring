@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1713620887401" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.3.1200.v20221123-1800/" version="2.3.1200.v20221123-1800">
+</feature>
+<feature id="org.eclipse.jpt.jpadiagrameditor.feature" plugin-identifier="org.eclipse.jpt.jpadiagrameditor.branding" url="features/org.eclipse.jpt.jpadiagrameditor.feature_1.2.300.v202106211225/" version="1.2.300.v202106211225">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.ssh.feature" plugin-identifier="org.eclipse.tm.terminal.connector.ssh" url="features/org.eclipse.tm.terminal.connector.ssh.feature_11.0.0.202211062329/" version="11.0.0.202211062329">
+</feature>
+<feature id="org.eclipse.jsf.feature" url="features/org.eclipse.jsf.feature_3.10.300.v202210040300/" version="3.10.300.v202210040300">
+</feature>
+<feature id="org.eclipse.wst.xml_core.feature" url="features/org.eclipse.wst.xml_core.feature_3.28.0.v202211200019/" version="3.28.0.v202211200019">
+</feature>
+<feature id="org.eclipse.buildship" plugin-identifier="org.eclipse.buildship.branding" url="features/org.eclipse.buildship_3.1.6.v20220511-1359/" version="3.1.6.v20220511-1359">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_6.4.0.202211300538-r/" version="6.4.0.202211300538-r">
+</feature>
+<feature id="org.eclipse.wst.web_ui.feature" plugin-identifier="org.eclipse.wst.web.ui" url="features/org.eclipse.wst.web_ui.feature_3.28.0.v202211200019/" version="3.28.0.v202211200019">
+</feature>
+<feature id="org.eclipse.wst.common_core.feature" url="features/org.eclipse.wst.common_core.feature_3.23.0.v202108200212/" version="3.23.0.v202108200212">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.feature" url="features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20230507-1921/" version="1.1.501.v20230507-1921">
+</feature>
+<feature id="org.eclipse.m2e.lemminx.feature" url="features/org.eclipse.m2e.lemminx.feature_2.0.2.20221130-2134/" version="2.0.2.20221130-2134">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.telnet.feature" url="features/org.eclipse.tm.terminal.connector.telnet.feature_11.0.0.202211062329/" version="11.0.0.202211062329">
+</feature>
+<feature id="org.eclipse.jpt.jpa.feature" plugin-identifier="org.eclipse.jpt.jpa.branding" url="features/org.eclipse.jpt.jpa.feature_3.6.1.v202204060305/" version="3.6.1.v202204060305">
+</feature>
+<feature id="org.eclipse.oomph.p2" url="features/org.eclipse.oomph.p2_1.25.0.v20221125-1553/" version="1.25.0.v20221125-1553">
+</feature>
+<feature id="org.eclipse.tm.terminal.view.feature" plugin-identifier="org.eclipse.tm.terminal.view.ui" url="features/org.eclipse.tm.terminal.view.feature_11.0.0.202211062329/" version="11.0.0.202211062329">
+</feature>
+<feature id="org.eclipse.m2e.wtp.feature" plugin-identifier="org.eclipse.m2e.wtp" url="features/org.eclipse.m2e.wtp.feature_1.5.2.20220906-1452/" version="1.5.2.20220906-1452">
+</feature>
+<feature id="org.eclipse.emf.codegen.ui" url="features/org.eclipse.emf.codegen.ui_2.25.0.v20230211-1150/" version="2.25.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.jpt.common.feature" plugin-identifier="org.eclipse.jpt.common.branding" url="features/org.eclipse.jpt.common.feature_1.5.200.v202308172102/" version="1.5.200.v202308172102">
+</feature>
+<feature id="org.eclipse.php.composer" url="features/org.eclipse.php.composer_7.2.1.202112011741/" version="7.2.1.202112011741">
+</feature>
+<feature id="org.eclipse.jgit.http.apache" url="features/org.eclipse.jgit.http.apache_6.4.0.202211300538-r/" version="6.4.0.202211300538-r">
+</feature>
+<feature id="org.eclipse.emf.edit.ui" url="features/org.eclipse.emf.edit.ui_2.25.0.v20230211-1150/" version="2.25.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.jst.ws.jaxws_userdoc.feature" url="features/org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.403.v201909051708/" version="1.0.403.v201909051708">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.26.0.v20221123-2302/" version="4.26.0.v20221123-2302">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.feature" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1900.v20230715-1945/" version="3.14.1900.v20230715-1945">
+</feature>
+<feature id="org.eclipse.wildwebdeveloper.feature" url="features/org.eclipse.wildwebdeveloper.feature_1.0.1.202211231523/" version="1.0.1.202211231523">
+</feature>
+<feature id="org.eclipse.jpt.jaxb.eclipselink.feature" plugin-identifier="org.eclipse.jpt.jaxb.eclipselink.branding" url="features/org.eclipse.jpt.jaxb.eclipselink.feature_1.4.203.v202104080213/" version="1.4.203.v202104080213">
+</feature>
+<feature id="org.eclipse.wst.xml_userdoc.feature" url="features/org.eclipse.wst.xml_userdoc.feature_3.18.0.v202004271556/" version="3.18.0.v202004271556">
+</feature>
+<feature id="org.eclipse.wst.web_core.feature" url="features/org.eclipse.wst.web_core.feature_3.28.0.v202211200019/" version="3.28.0.v202211200019">
+</feature>
+<feature id="org.eclipse.jgit.gpg.bc" url="features/org.eclipse.jgit.gpg.bc_6.4.0.202211300538-r/" version="6.4.0.202211300538-r">
+</feature>
+<feature id="org.eclipse.jst.server_ui.feature" url="features/org.eclipse.jst.server_ui.feature_3.4.500.v202103180201/" version="3.4.500.v202103180201">
+</feature>
+<feature id="org.eclipse.php" plugin-identifier="org.eclipse.php.ui" url="features/org.eclipse.php_7.2.1.202112011741/" version="7.2.1.202112011741">
+</feature>
+<feature id="org.eclipse.wildwebdeveloper.embedder.node.feature" url="features/org.eclipse.wildwebdeveloper.embedder.node.feature_1.0.1.202211231523/" version="1.0.1.202211231523">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.18.1400.v20221123-1800/" version="3.18.1400.v20221123-1800">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.31.0.v20231210-0956/" version="2.31.0.v20231210-0956">
+</feature>
+<feature id="org.eclipse.jst.ws.cxf.feature" plugin-identifier="org.eclipse.jst.ws.cxf.core" url="features/org.eclipse.jst.ws.cxf.feature_1.1.900.v202211121326/" version="1.1.900.v202211121326">
+</feature>
+<feature id="org.eclipse.m2e.wtp.jsf.feature" plugin-identifier="org.eclipse.m2e.wtp.jsf" url="features/org.eclipse.m2e.wtp.jsf.feature_1.5.0.20220805-2025/" version="1.5.0.20220805-2025">
+</feature>
+<feature id="org.eclipse.oomph.setup" url="features/org.eclipse.oomph.setup_1.27.0.v20221125-1553/" version="1.27.0.v20221125-1553">
+</feature>
+<feature id="org.eclipse.emf.mapping" url="features/org.eclipse.emf.mapping_2.15.0.v20230211-1150/" version="2.15.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.4.1800.v20221117-1044/" version="2.4.1800.v20221117-1044">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.37.0.v20240203-0859/" version="2.37.0.v20240203-0859">
+</feature>
+<feature id="org.eclipse.wst.common.fproj" plugin-identifier="org.eclipse.wst.common.project.facet.core" url="features/org.eclipse.wst.common.fproj_3.7.3.v202111212041/" version="3.7.3.v202111212041">
+</feature>
+<feature id="org.eclipse.rap.tools.feature" url="features/org.eclipse.rap.tools.feature_3.23.0.20221130-1200/" version="3.23.0.20221130-1200">
+</feature>
+<feature id="org.eclipse.jst.web_ui.feature" url="features/org.eclipse.jst.web_ui.feature_3.28.0.v202210260359/" version="3.28.0.v202210260359">
+</feature>
+<feature id="org.eclipse.wst.xsl.feature" plugin-identifier="org.eclipse.wst.xsl" url="features/org.eclipse.wst.xsl.feature_1.3.1200.v202211200019/" version="1.3.1200.v202211200019">
+</feature>
+<feature id="org.eclipse.jst.common.fproj.enablement.jdt" plugin-identifier="org.eclipse.jst.common.project.facet.core" url="features/org.eclipse.jst.common.fproj.enablement.jdt_3.27.0.v202208260526/" version="3.27.0.v202208260526">
+</feature>
+<feature id="org.eclipse.jst.enterprise_ui.feature" plugin-identifier="org.eclipse.jst.jee.ui" url="features/org.eclipse.jst.enterprise_ui.feature_3.28.0.v202209230232/" version="3.28.0.v202209230232">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_6.4.0.202211300538-r/" version="6.4.0.202211300538-r">
+</feature>
+<feature id="org.eclipse.mylyn.wikitext_feature" plugin-identifier="org.eclipse.mylyn.wikitext" url="features/org.eclipse.mylyn.wikitext_feature_3.0.42.202201072301/" version="3.0.42.202201072301">
+</feature>
+<feature id="org.eclipse.jpt.jaxb.feature" plugin-identifier="org.eclipse.jpt.jaxb.branding" url="features/org.eclipse.jpt.jaxb.feature_1.5.201.v202104080213/" version="1.5.201.v202104080213">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.editor" url="features/org.eclipse.emf.mapping.ecore.editor_2.16.0.v20230211-1150/" version="2.16.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.jst.ws.jaxws.dom.feature" url="features/org.eclipse.jst.ws.jaxws.dom.feature_1.0.500.v202206270222/" version="1.0.500.v202206270222">
+</feature>
+<feature id="org.eclipse.jst.ws.axis2tools.feature" plugin-identifier="org.eclipse.jst.ws.axis2.ui" url="features/org.eclipse.jst.ws.axis2tools.feature_1.1.401.v201909051708/" version="1.1.401.v201909051708">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.26.0.v20221123-2302/" version="4.26.0.v20221123-2302">
+</feature>
+<feature id="org.eclipse.jst.server_adapters.ext.feature" url="features/org.eclipse.jst.server_adapters.ext.feature_3.4.600.v202211100535/" version="3.4.600.v202211100535">
+</feature>
+<feature id="org.eclipse.emf.ecore.edit" url="features/org.eclipse.emf.ecore.edit_2.16.0.v20230211-1150/" version="2.16.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_4.26.0.v20221123-2302/" version="4.26.0.v20221123-2302">
+</feature>
+<feature id="org.eclipse.jpt.jpa.eclipselink.feature" plugin-identifier="org.eclipse.jpt.jpa.eclipselink.branding" url="features/org.eclipse.jpt.jpa.eclipselink.feature_3.4.101.v201903221940/" version="3.4.101.v201903221940">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore" url="features/org.eclipse.emf.mapping.ecore_2.14.0.v20230211-1150/" version="2.14.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.wst.jsdt.chromium.debug.feature" plugin-identifier="org.eclipse.wst.jsdt.chromium.debug" url="features/org.eclipse.wst.jsdt.chromium.debug.feature_0.6.300.v202205232338/" version="0.6.300.v202205232338">
+</feature>
+<feature id="org.eclipse.mylyn.wikitext.editors_feature" plugin-identifier="org.eclipse.mylyn.wikitext" url="features/org.eclipse.mylyn.wikitext.editors_feature_3.0.42.202201072301/" version="3.0.42.202201072301">
+</feature>
+<feature id="org.eclipse.m2e.wtp.jpa.feature" plugin-identifier="org.eclipse.m2e.wtp.jpa" url="features/org.eclipse.m2e.wtp.jpa.feature_1.5.0.20220805-2025/" version="1.5.0.20220805-2025">
+</feature>
+<feature id="org.eclipse.m2e.logback.feature" plugin-identifier="org.eclipse.m2e.core" url="features/org.eclipse.m2e.logback.feature_2.1.0.20221015-0744/" version="2.1.0.20221015-0744">
+</feature>
+<feature id="org.eclipse.emf.codegen" url="features/org.eclipse.emf.codegen_2.24.0.v20230211-1150/" version="2.24.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.wst.xml_ui.feature" plugin-identifier="org.eclipse.wst.xml.ui" url="features/org.eclipse.wst.xml_ui.feature_3.28.0.v202211200019/" version="3.28.0.v202211200019">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.6.1600.v20221117-1044/" version="1.6.1600.v20221117-1044">
+</feature>
+<feature id="org.eclipse.wst.web_js_support.feature" url="features/org.eclipse.wst.web_js_support.feature_3.22.0.v202211200019/" version="3.22.0.v202211200019">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.local.feature" url="features/org.eclipse.tm.terminal.connector.local.feature_11.0.0.202211062329/" version="11.0.0.202211062329">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.feature" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.402.v20231021-2127/" version="1.1.402.v20231021-2127">
+</feature>
+<feature id="org.eclipse.jst.ws.jaxws.feature" plugin-identifier="org.eclipse.jst.ws.jaxws.core" url="features/org.eclipse.jst.ws.jaxws.feature_1.2.800.v202211121326/" version="1.2.800.v202211121326">
+</feature>
+<feature id="org.eclipse.userstorage" url="features/org.eclipse.userstorage_1.2.0.v20210517-0327/" version="1.2.0.v20210517-0327">
+</feature>
+<feature id="org.eclipse.emf.edit" url="features/org.eclipse.emf.edit_2.22.0.v20231208-1346/" version="2.22.0.v20231208-1346">
+</feature>
+<feature id="org.eclipse.eclemma.feature" plugin-identifier="org.eclipse.eclemma.ui" url="features/org.eclipse.eclemma.feature_3.1.6.202206011447/" version="3.1.6.202206011447">
+</feature>
+<feature id="org.eclipse.epp.package.common.feature" url="features/org.eclipse.epp.package.common.feature_4.26.0.20221201-1200/" version="4.26.0.20221201-1200">
+</feature>
+<feature id="org.eclipse.jst.server_userdoc.feature" url="features/org.eclipse.jst.server_userdoc.feature_3.3.300.v201901310132/" version="3.3.300.v201901310132">
+</feature>
+<feature id="org.eclipse.wst.json_ui.feature" plugin-identifier="org.eclipse.wst.json.ui" url="features/org.eclipse.wst.json_ui.feature_1.1.10.v202211200019/" version="1.1.10.v202211200019">
+</feature>
+<feature id="org.eclipse.emf.databinding.edit" url="features/org.eclipse.emf.databinding.edit_1.11.0.v20231208-1346/" version="1.11.0.v20231208-1346">
+</feature>
+<feature id="org.eclipse.jst.server_adapters.feature" url="features/org.eclipse.jst.server_adapters.feature_3.2.700.v202204301608/" version="3.2.700.v202204301608">
+</feature>
+<feature id="org.eclipse.m2e.feature" plugin-identifier="org.eclipse.m2e.core" url="features/org.eclipse.m2e.feature_2.1.2.20221130-2239/" version="2.1.2.20221130-2239">
+</feature>
+<feature id="org.eclipse.jst.webpageeditor.feature" url="features/org.eclipse.jst.webpageeditor.feature_2.9.1.v202111210733/" version="2.9.1.v202111210733">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.1800.v20221117-1044/" version="1.4.1800.v20221117-1044">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.2.1200.v20221111-1340/" version="1.2.1200.v20221111-1340">
+</feature>
+<feature id="org.eclipse.jst.web_core.feature" url="features/org.eclipse.jst.web_core.feature_3.31.0.v202307061452/" version="3.31.0.v202307061452">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.10.1.v20221110-1841/" version="1.10.1.v20221110-1841">
+</feature>
+<feature id="org.eclipse.wst.server_core.feature" url="features/org.eclipse.wst.server_core.feature_3.3.1000.v202211100535/" version="3.3.1000.v202211100535">
+</feature>
+<feature id="org.eclipse.epp.package.java.feature" plugin-identifier="org.eclipse.epp.package.java" url="features/org.eclipse.epp.package.java.feature_4.26.0.20221201-1200/" version="4.26.0.20221201-1200">
+</feature>
+<feature id="org.eclipse.wst.ws_core.feature" url="features/org.eclipse.wst.ws_core.feature_3.26.0.v202205160314/" version="3.26.0.v202205160314">
+</feature>
+<feature id="org.eclipse.wst.server_adapters.feature" url="features/org.eclipse.wst.server_adapters.feature_3.2.1100.v202211091907/" version="3.2.1100.v202211091907">
+</feature>
+<feature id="org.eclipse.wst.common_ui.feature" url="features/org.eclipse.wst.common_ui.feature_3.28.0.v202211200032/" version="3.28.0.v202211200032">
+</feature>
+<feature id="org.eclipse.wst.ws_userdoc.feature" url="features/org.eclipse.wst.ws_userdoc.feature_3.1.501.v201909051708/" version="3.1.501.v201909051708">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient5.feature" url="features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.702.v20231114-1017/" version="1.1.702.v20231114-1017">
+</feature>
+<feature id="org.eclipse.m2e.wtp.jaxrs.feature" plugin-identifier="org.eclipse.m2e.wtp.jaxrs" url="features/org.eclipse.m2e.wtp.jaxrs.feature_1.5.0.20220805-2025/" version="1.5.0.20220805-2025">
+</feature>
+<feature id="org.eclipse.jgit.ssh.apache" url="features/org.eclipse.jgit.ssh.apache_6.4.0.202211300538-r/" version="6.4.0.202211300538-r">
+</feature>
+<feature id="org.eclipse.emf.mapping.ui" url="features/org.eclipse.emf.mapping.ui_2.15.0.v20230211-1150/" version="2.15.0.v20230211-1150">
+</feature>
+<feature id="org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature" url="features/org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature_2.6.1.v201902121810/" version="2.6.1.v201902121810">
+</feature>
+<feature id="org.eclipse.wst.web_userdoc.feature" url="features/org.eclipse.wst.web_userdoc.feature_3.18.0.v202004271556/" version="3.18.0.v202004271556">
+</feature>
+<feature id="org.eclipse.wst.server_userdoc.feature" url="features/org.eclipse.wst.server_userdoc.feature_3.3.300.v201901310132/" version="3.3.300.v201901310132">
+</feature>
+<feature id="org.eclipse.wildwebdeveloper.xml.feature" url="features/org.eclipse.wildwebdeveloper.xml.feature_1.0.1.202211101634/" version="1.0.1.202211101634">
+</feature>
+<feature id="org.eclipse.tm.terminal.control.feature" plugin-identifier="org.eclipse.tm.terminal.control" url="features/org.eclipse.tm.terminal.control.feature_11.0.0.202211062329/" version="11.0.0.202211062329">
+</feature>
+<feature id="org.eclipse.tips.feature" url="features/org.eclipse.tips.feature_0.3.0.v20221111-1229/" version="0.3.0.v20221111-1229">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.4.1800.v20221117-1044/" version="1.4.1800.v20221117-1044">
+</feature>
+<feature id="org.eclipse.jst.server_core.feature" url="features/org.eclipse.jst.server_core.feature_3.4.600.v202308172116/" version="3.4.600.v202308172116">
+</feature>
+<feature id="org.eclipse.tm.terminal.feature" plugin-identifier="org.eclipse.tm.terminal.view.core" url="features/org.eclipse.tm.terminal.feature_11.0.0.202210031642/" version="11.0.0.202210031642">
+</feature>
+<feature id="org.eclipse.wst.ws_ui.feature" url="features/org.eclipse.wst.ws_ui.feature_3.31.0.v202308010326/" version="3.31.0.v202308010326">
+</feature>
+<feature id="org.eclipse.ecf.core.feature" url="features/org.eclipse.ecf.core.feature_1.6.2.v20231021-2127/" version="1.6.2.v20231021-2127">
+</feature>
+<feature id="org.eclipse.emf.ecore.editor" url="features/org.eclipse.emf.ecore.editor_2.19.0.v20230224-1122/" version="2.19.0.v20230224-1122">
+</feature>
+<feature id="org.eclipse.wst.server_ui.feature" url="features/org.eclipse.wst.server_ui.feature_3.3.1400.v202211100535/" version="3.3.1400.v202211100535">
+</feature>
+<feature id="org.eclipse.jpt.common.eclipselink.feature" plugin-identifier="org.eclipse.jpt.common.eclipselink.branding" url="features/org.eclipse.jpt.common.eclipselink.feature_1.3.300.v202307260736/" version="1.3.300.v202307260736">
+</feature>
+<feature id="org.eclipse.justj.epp" url="features/org.eclipse.justj.epp_17.0.0.v20221106-1000/" version="17.0.0.v20221106-1000">
+</feature>
+<feature id="org.eclipse.wst.json_core.feature" url="features/org.eclipse.wst.json_core.feature_1.1.8.v202211200019/" version="1.1.8.v202211200019">
+</feature>
+<feature id="org.eclipse.emf.databinding" url="features/org.eclipse.emf.databinding_1.11.0.v20231208-1346/" version="1.11.0.v20231208-1346">
+</feature>
+<feature id="org.eclipse.jst.web_js_support.feature" url="features/org.eclipse.jst.web_js_support.feature_3.28.0.v202210260359/" version="3.28.0.v202210260359">
+</feature>
+<feature id="org.eclipse.wst.xml.xpath2.processor.feature" plugin-identifier="org.eclipse.wst.xml.xpath2" url="features/org.eclipse.wst.xml.xpath2.processor.feature_2.1.0.v202307260822/" version="2.1.0.v202307260822">
+</feature>
+<feature id="org.eclipse.oomph.setup.core" url="features/org.eclipse.oomph.setup.core_1.26.0.v20221125-1553/" version="1.26.0.v20221125-1553">
+</feature>
+<feature id="org.eclipse.wst.jsdt.feature" plugin-identifier="org.eclipse.wst.jsdt.ui" url="features/org.eclipse.wst.jsdt.feature_2.4.400.v202211200038/" version="2.4.400.v202211200038">
+</feature>
+</site>
+</config>
